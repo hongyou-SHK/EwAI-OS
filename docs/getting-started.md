@@ -2,7 +2,7 @@
 
 ## 🎯 什么是 EwAI-OS？
 
-EwAI-OS (Evolution with AI Operating System) 是一个实验性项目，旨在构建一个与 AI 智能体深度协作的个人操作系统。
+EwAI-OS (Evolve with AI Operating System) 是一个实验性项目，旨在构建一个与 AI 智能体深度协作的个人操作系统。
 
 ### 核心概念
 

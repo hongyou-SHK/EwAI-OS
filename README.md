@@ -1,6 +1,6 @@
 # EwAI-OS
 
-> **Evolution with AI Operating System**  
+> **Evolve with AI Operating System**  
 > 一个与 AI 共同进化的个人智能体系统
 
 ## 💡 项目愿景
