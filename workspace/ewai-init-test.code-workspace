@@ -1,0 +1,17 @@
+{
+        "folders": [
+                {
+                        "name": "EwAI-OS",
+                        "path": "."
+                },
+                {
+                        "name": "np",
+                        "path": "../../Dev/np"
+                },
+                {
+                        "name": "Healthy-100-Plan",
+                        "path": "../../Desktop/Healthy-100-Plan"
+                }
+        ],
+        "settings": {}
+}
