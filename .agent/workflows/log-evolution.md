@@ -7,8 +7,8 @@ description: 记录 EwAI 共生进化日志与更新看板
 当宏佑要求“记录进化日志”或发生值得记录的“自主行动/模式变迁”时，执行此工作流。
 
 ## 1. 核心文件路径 (SSOT)
-- **数据源**: `/Users/mac/WPSSyncdisk/My-AI-Life/EwAI_Co_Evolution_Log.md`
-- **看板视图**: `/Users/mac/WPSSyncdisk/My-AI-Life/EwAI_Dashboard.html`
+- **数据源**: `/Users/mac/WPSSyncdisk/EwAI-OS/data/logs/EwAI_Co_Evolution_Log.md`
+- **看板视图**: `/Users/mac/WPSSyncdisk/EwAI-OS/public/EwAI_Dashboard.html`
 
 ## 2. 执行步骤
 
