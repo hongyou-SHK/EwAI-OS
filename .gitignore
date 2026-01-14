@@ -14,3 +14,7 @@ node_modules/
 
 # 编辑器备份
 *.bak
+
+# WPS 网盘临时文件
+**/.tmp.driveupload/
+**/.tmp.drivedownload/
